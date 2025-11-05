@@ -10,7 +10,7 @@ Gosto de unir **programação**, **modelagem 3D** e **criatividade** para dar vi
 
 ## 🚀 Projetos em destaque
 
-### 🎮 [Dígito Remake](https://github.com/BenicyoDEV/Digito_Playground)
+### 🎮 [Dígito](https://github.com/BenicyoDEV/Digito_Playground)
 Jogo educativo em desenvolvimento, que ensina lógica de programação por meio de desafios, puzzles e ambientação 3D.
 
 ### 🏫 [FalandoAgora](https://github.com/BenicyoDEV/FalandoAgora)
