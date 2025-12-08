@@ -23,7 +23,7 @@ Fanpage da banda Muse, apresentando história, discografia e redes sociais, toda
 Página interativa sobre as invenções da Pré-História, parte do projeto coletivo da ETEC de Poá.
 
 ### ⚙️ [EvaWiki](https://github.com/BenicyoDEV/EvaWiki)
-Enciclopédia digital sobre Neon Genesis Evangelion, apresentando informações do anime com design responsivo, elementos visuais estilizados e tabelas informativas.
+Enciclopédia digital sobre Neon Genesis Evangelion, apresentando informações do anime com design responsivo, estilizado e tabelas informativas.
 
 
 ---
