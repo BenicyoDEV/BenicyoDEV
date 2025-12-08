@@ -22,6 +22,10 @@ Fanpage da banda Muse, apresentando história, discografia e redes sociais, toda
 ### 🧬 [A Evolução Humana: Das Caravelas à Navegação Digital](https://github.com/BenicyoDEV/CasaAberta2025)
 Página interativa sobre as invenções da Pré-História, parte do projeto coletivo da ETEC de Poá.
 
+### ⚙️ EvaWiki — Enciclopédia Interativa sobre Neon Genesis Evangelion(https://github.com/BenicyoDEV/EvaWiki)
+Wiki alternativa sobre Neon Genesis Evangelion, apresentando de forma responsiva e estilizada sobre o anime.
+
+
 ---
 
 ## 🧠 Habilidades
