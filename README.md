@@ -10,8 +10,13 @@ Gosto de unir **programação**, **modelagem 3D** e **criatividade** para dar vi
 
 ## 🚀 Projetos em destaque
 
+
+
 ### 🎮 [Dígito](https://github.com/BenicyoDEV/Digito_Playground)
 Jogo educativo em desenvolvimento, que ensina lógica de programação por meio de desafios, puzzles e ambientação 3D.
+
+### ⚙️ [EvaWiki](https://github.com/BenicyoDEV/EvaWiki)
+Enciclopédia digital sobre Neon Genesis Evangelion, apresentando informações do anime com design responsivo, estilizado e tabelas informativas.
 
 ### 🏫 [FalandoAgora](https://github.com/BenicyoDEV/FalandoAgora)
 Site fictício de cursos de idiomas com formulários e frameset, simulando uma empresa educacional moderna.
@@ -21,9 +26,6 @@ Fanpage da banda Muse, apresentando história, discografia e redes sociais, toda
 
 ### 🧬 [A Evolução Humana: Das Caravelas à Navegação Digital](https://github.com/BenicyoDEV/CasaAberta2025)
 Página interativa sobre as invenções da Pré-História, parte do projeto coletivo da ETEC de Poá.
-
-### ⚙️ [EvaWiki](https://github.com/BenicyoDEV/EvaWiki)
-Enciclopédia digital sobre Neon Genesis Evangelion, apresentando informações do anime com design responsivo, estilizado e tabelas informativas.
 
 
 ---
