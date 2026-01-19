@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Mineiro
 
 🎯 **HTML/CSS intermediário | C# básico | Modelador 3D | Estudante de espanhol**  
-🎓 **ETEC de Poá – Desenvolvimento de Sistemas (1º ano)**  
+🎓 **ETEC de Poá – Desenvolvimento de Sistemas (2º ano)**  
 
 Sou um desenvolvedor em formação, curioso por tecnologia, arte e design interativo.  
 Gosto de unir **programação**, **modelagem 3D** e **criatividade** para dar vida a ideias — seja em jogos, páginas web ou experiências visuais.
