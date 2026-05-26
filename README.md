@@ -4,7 +4,7 @@
 🎓 **ETEC de Poá – Desenvolvimento de Sistemas (2º ano)**  
 
 Sou um desenvolvedor em formação, curioso por tecnologia, arte e design interativo.  
-Gosto de unir **programação**, **modelagem 3D** e **criatividade** para dar vida a ideias — seja em jogos, páginas web ou interfaces interativas..
+Gosto de unir **programação**, **modelagem 3D** e **criatividade** para dar vida a ideias — seja em jogos, páginas web ou interfaces interativas.
 
 ---
 
