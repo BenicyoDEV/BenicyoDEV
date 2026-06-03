@@ -42,6 +42,6 @@ Página interativa sobre as invenções da Pré-História, parte do projeto cole
 
 ## 📫 Contato
 
-📧 **benicyomineirooliveira@gmail.com**  
+📧 **benicyoetec@gmail.com**  
 🐙 [GitHub](https://github.com/BenicyoDEV)
 
