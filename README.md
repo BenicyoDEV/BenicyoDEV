@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Mineiro
 
-🎯 **HTML/CSS | C# | Modelagem 3D | TypeScript | MySQL | Estudante de espanhol**  
+🎯 **HTML/CSS | C# | Modelagem 3D | JavaScript | MySQL | Estudante de espanhol**  
 🎓 **ETEC de Poá – Desenvolvimento de Sistemas (2º ano)**  
 
 Sou um desenvolvedor em formação, curioso por tecnologia, arte e design interativo.  
@@ -29,7 +29,8 @@ Página interativa sobre as invenções da Pré-História, parte do projeto cole
 
 ## 🧠 Habilidades
 
-- 💻 **HTML5 / CSS3** – Estrutura e design responsivo  
+- 💻 **HTML5 / CSS3** – Estrutura e design responsivo
+- 🟨 **JavaScript** – Lógica e interatividade da página web
 - ⚙️ **C#** – Lógica de programação
 - 📱 **React Native** – Desenvolvimento de aplicações mobile
 - 🗄️ **MySQL** – Aprendizado e prática de banco de dados relacional  
