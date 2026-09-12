@@ -12,9 +12,6 @@ Gosto de unir **programação**, **modelagem 3D** e **criatividade** para dar vi
 
 
 
-### 🎮 [Dígito](https://github.com/BenicyoDEV/Digito_Playground)
-Jogo educativo em desenvolvimento, que ensina lógica de programação por meio de desafios, puzzles e ambientação 3D.
-
 ### ⚙️ [EvaWiki](https://github.com/BenicyoDEV/EvaWiki)
 Enciclopédia digital sobre Neon Genesis Evangelion, apresentando informações do anime com design responsivo, estilizado e tabelas informativas.
 
