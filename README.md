@@ -12,7 +12,7 @@ Gosto de unir **programação**, **modelagem 3D** e **criatividade** para dar vi
 
 
 
-### 🎮 [Pixel Hub](https://github.com/seu-usuario-github/PixelHub)
+### 🎮 [Pixel Hub](https://github.com/BenicyoDEV/GameCenter)
 Sistema de gerenciamento de jogadores e torneios, com login, cadastro, criação de torneios e histórico de competições, usando armazenamento local (localStorage).
 
 ### ⚙️ [EvaWiki](https://github.com/BenicyoDEV/EvaWiki)
