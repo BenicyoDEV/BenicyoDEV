@@ -13,7 +13,7 @@ Gosto de unir **programação**, **modelagem 3D** e **criatividade** para dar vi
 
 
 ### 🎮 [Pixel Hub](https://github.com/BenicyoDEV/GameCenter)
-Sistema de gerenciamento de jogadores e torneios, com login, cadastro, criação de torneios e histórico de competições, usando armazenamento local (localStorage).
+Sistema de gerenciamento de jogadores e torneios, com login, cadastro, criação de torneios e histórico de competições, usando armazenamento sql.
 
 ### ⚙️ [EvaWiki](https://github.com/BenicyoDEV/EvaWiki)
 Enciclopédia digital sobre Neon Genesis Evangelion, apresentando informações do anime com design responsivo, estilizado e tabelas informativas.
